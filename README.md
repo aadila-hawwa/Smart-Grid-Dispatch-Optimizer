@@ -3,14 +3,7 @@ GridPulse AI is an intelligent smart grid dispatch system that predicts electric
 
 ⚡ GridPulse AI: Smart Grid Dispatch Optimizer
 
-
-
-
-
-
-
-
-
+--
 
 📌 Overview
 
@@ -31,6 +24,8 @@ The system acts as a digital twin of a smart grid, enabling efficient, cost-awar
 ---
 
 🏗️ System Architecture
+
+
                  ┌──────────────────────┐
                  │   Data Sources       │
                  │ (Kaggle + Synthetic) │
@@ -124,17 +119,6 @@ Carbon emission optimization layer
 
 ---
 
-📂 Project Structure (Suggested)
-GridPulse-AI/
-│
-├── data/                  # Kaggle + synthetic datasets
-├── models/               # ML models
-├── notebooks/            # Jupyter analysis
-├── app.py                # Streamlit dashboard
-├── optimizer.py         # Dispatch logic
-├── utils.py             # Helper functions
-├── requirements.txt
-└── README.md
 ---
 ⭐ Final Note
 
